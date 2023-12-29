@@ -1,0 +1,4 @@
+telethon>=1.23.0
+pymongo>=3.12.1
+dropbox>=11.10.0
+python-dotenv>=0.19.0

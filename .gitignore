@@ -1,0 +1,7 @@
+.env
+temp
+name.session
+name.session.lock
+app.spec
+dist
+build
